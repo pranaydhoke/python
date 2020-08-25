@@ -1,3 +1,6 @@
+__author__      = "Pranay Dhoke"
+__copyright__   = "Technospace"
+
 from flask import request
 from flask import Flask
 
